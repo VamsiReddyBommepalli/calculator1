@@ -1,5 +1,3 @@
-# calculator1
-simple calculation
 package beginning;
 import java.util.Scanner;
 public class calci 
